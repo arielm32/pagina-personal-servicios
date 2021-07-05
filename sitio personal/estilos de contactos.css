@@ -1,0 +1,49 @@
+
+*{
+margin: 0px;
+padding: 3px; 
+}
+
+
+body{
+background: lightgray;
+font-family: Arial;
+}
+
+
+
+#container{
+  width: 70%;
+  margin: 0px auto;
+  border: 3px solid black;
+
+}
+
+
+header{
+ background: red;
+ height: 100px;
+ widht: 100%;
+ margin: 0px;
+ text-align: center;
+ line-height: 100px
+ 
+}
+
+#container{
+ float: center;
+ width: 80%
+ background: green;
+}
+.appWhatsapp{
+  position. fixed;
+  right: 0px;
+  bottom: 100px;
+  width: 60px;
+  z-index: 1000;
+}
+.appWhatsapp img{
+  width: 100%;
+  height: auto;
+}
+
